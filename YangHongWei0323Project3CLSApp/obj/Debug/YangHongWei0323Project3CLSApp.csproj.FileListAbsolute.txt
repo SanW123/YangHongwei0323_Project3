@@ -1,0 +1,11 @@
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\bin\Debug\YangHongWei0323Project3CLSApp.exe.config
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\bin\Debug\YangHongWei0323Project3CLSApp.exe
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\bin\Debug\YangHongWei0323Project3CLSApp.pdb
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.csproj.AssemblyReference.cache
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.Properties.Resources.resources
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.csproj.GenerateResource.cache
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.csproj.CoreCompileInputs.cache
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.exe
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.pdb
+C:\Users\YHW\source\repos\YangHongWei0323Project3CLSApp\YangHongWei0323Project3CLSApp\obj\Debug\YangHongWei0323Project3CLSApp.frmCreative.resources
